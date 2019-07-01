@@ -1,0 +1,67 @@
+html, body{
+  background-color: #303B40;
+  font-family: Helvetica, arial;
+  margin: 0;
+}
+
+header{
+  background-color: #0D0D0D;
+  padding: 40px;
+  text-align: center;
+}
+h1{
+  font-size: 90px;
+  color: #F2071B;
+
+}
+header img{
+  border-radius: 75px;
+  width: 300px;
+  border: 10px solid #BF0615;
+
+}
+.content{
+  max-width: 900px;
+  margin: 0,auto;
+}
+img.bigImage{
+  margin-left: 300px;
+  max-width: 100%;
+  padding: 0 20px;
+
+}
+p.caption{
+  margin-left: 320px;
+font-size: 16px;
+color: #590209;
+font-style: italic;
+
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+a{
+  color: #8C0410;
+  text-decoration: none;
+}
+
+footer{
+  margin-top: 20px;
+  padding: 40x 20px;
+  background-color: #9FA4A6;
+}
+footer ul{
+  text-align: center;
+}
+footer ul li{
+  display: inline-block;
+  margin: 0 5px;
+}
+/*  <header>
+    <img src="Images/geralt.jpg">
+    <h1>Geralt of Rivia</h1>
+  </header> */
